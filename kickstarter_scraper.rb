@@ -1,5 +1,5 @@
-require 'nokogiri'# require libraries/modules here
 require 'pry'
+require 'nokogiri'# require libraries/modules here
 
 def create_project_hash
   projects = {}

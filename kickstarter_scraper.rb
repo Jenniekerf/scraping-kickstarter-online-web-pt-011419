@@ -10,8 +10,6 @@ def create_project_hash
   
 end
 
-projects 
+
 
 binding.pry
-
-create_project_hash
